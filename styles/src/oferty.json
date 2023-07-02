@@ -1,0 +1,15 @@
+[
+    {
+        "image": "https://bucket.justjoin.it/offers/company_logos/original/9bfd9b00d45b0b800385ade3003deb331e238089.jpg?1686296105",
+        "name": "Design",
+        "companyName": "Nokia",
+        "salary": "10000PLN",
+        "companySize": "100",
+        "techStack": [
+            "Jira",
+            "figma",
+            "linux"
+        ],
+        "description": "Nokia is committed to innovation and technology leadership across mobile, fixed and cloud networks. Your career here will have a positive impact on people’s lives and will help us build the capabilities needed for a more productive, sustainable, "
+    }
+]
