@@ -1,0 +1,1 @@
+export const User = () => (<div>User Access</div>)
